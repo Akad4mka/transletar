@@ -1,9 +1,3 @@
 # Transletar
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Disclaimer / Important NoticeI am solely the technical developer of this mod. The project was built strictly according to the specific requirements and technical specifications provided by the client.Development: I was hired exclusively to write the code/create the mod.Ownership: The client has fully paid for the work. I do not own, maintain, or have any rights to this mod.Support: I do not provide post-release support, bug fixes, or updates unless requested and funded by the owner.If you encounter any issues, bugs, or have suggestions, please do not contact me. Direct all your inquiries, feedback, and support tickets to the client/owner who commissioned this project.
