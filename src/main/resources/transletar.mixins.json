@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "net.arm.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"TitleScreenMixin",
+		"ComponentMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

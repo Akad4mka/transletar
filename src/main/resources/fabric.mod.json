@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "transletar",
+	"version": "${version}",
+	"name": "Transletar",
+	"description": "Сделано на заказ автором https://t.me/akad4mka_cat",
+	"authors": [
+		"Akad4mka"
+	],
+	"contact": {
+		"web": "https://t.me/akad4mka_cat"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/transletar/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.arm.Transletar"
+		],
+		"fabric-datagen": [
+			"net.arm.TransletarDataGenerator"
+		]
+	},
+	"mixins": [
+		"transletar.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.25",
+		"minecraft": "~26.1.2",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
